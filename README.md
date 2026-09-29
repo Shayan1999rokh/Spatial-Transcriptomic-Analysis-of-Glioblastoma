@@ -785,5 +785,8 @@ Research interests include:
 - Deep Learning
 - Computational Biology
 - Medical Image Analysis
-- Spatial Transcriptomics
+- Spatial Transcriptomics / Omics
 - Biomedical Data Science
+
+---
+shayanrokhva1999@gmail.com
