@@ -1,5 +1,7 @@
 # Spatial Transcriptomic Analysis of Glioblastoma
 
+![Spatial Transcriptomic Analysis of Glioblastoma](COVER.png)
+
 ## Overview
 
 This project explores the spatial transcriptomic landscape of **human glioblastoma (GBM)** using a **10x Genomics Visium Spatial Gene Expression dataset**. The analysis combines gene-expression profiles, spatial coordinates, and histological tissue information to investigate transcriptomic heterogeneity across the tumor tissue.
